@@ -1,0 +1,82 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3em;
+    background-color: #7b7a85;
+}
+
+.github-profile {
+    display: flex;
+    align-items: center;
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 5px solid #ddd;
+    border-radius: 15px;
+    background-color: rgb(156, 150, 150);
+}
+
+.github-profile img {
+    border-radius: 50%;
+    margin-right: 20px;
+    width: 40%;
+    border: 2px solid #ddd;
+}
+
+.github-profile p {
+    margin: 8px 0;
+    font-size: medium;
+}
+
+.userInfo {
+    background-color: rgb(156, 150, 150);
+}
+
+.github-repos {
+    margin-top: 20px;
+}
+
+.github-repos h3 {
+    text-align: center;
+}
+
+.github-repos table {
+    width: 75%;
+    border-collapse: collapse;
+    margin: auto;
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid #ddd;
+}
+
+.github-repos th,
+.github-repos td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    background-color: rgb(156, 150, 150);
+}
+
+.github-repos th {
+    background-color: #f2f2f2;
+}
+
+.github-repos td {
+    text-align: left;
+    width: 50%;
+}
+
+.github-repos td:first-child {
+    width: 30%;
+}
+
+.github-repos th:last-child,
+.github-repos td:last-child {
+    width: 70%;
+}
+
+.github-repos a {
+    text-decoration: none;
+    font-weight: bold;
+}
