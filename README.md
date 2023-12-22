@@ -1,3 +1,4 @@
+![image](https://github.com/francielleabreu/github-api/assets/106924001/b20c10ad-f86e-438b-adc0-b5af6902137f)
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,7 +8,7 @@
     <h1>GitHub API</h1>
     <p>This is a web project developed as part of the Matrix Master Bootcamp in Rotterdam, the Netherlands. The goal of this challenge is to create a React app showing a GitHub user's personal data and repositories.</p>
     <h2>How to Run the Project</h2>
-    <p>1. Clone the repository to your local machine:</p>
+    <p>Clone the repository to your local machine:</p>
     <code>git clone https://github.com/francielleabreu/github-api.git</code>
     <h2>Start the server:</h2>
     <p>npm start</p>
